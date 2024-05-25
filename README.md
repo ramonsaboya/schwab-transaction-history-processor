@@ -14,6 +14,12 @@ Follow these steps to install the project:
 
 ## Usage
 
+To get your statements from Schwab, follow these instructions:
+1. Go to "Accounts" -> "Statements & Tax Forms" tab
+2. Select individual account on the top-left dropdown
+3. Update the filters to only include "Statements" and to show last 10 years
+4. Download all the PDFs and put them into a directory of your choice
+
 To run the project, you need to provide the directory of the statements PDF as an argument:
 
 1. Run the script: `python schwab.py /path/to/your/pdf/directory`
